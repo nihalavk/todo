@@ -1,0 +1,24 @@
+
+.containertodo{
+    display: flex;
+    flex-wrap: wrap;   
+    margin: 50px;
+}
+.todobox{
+    padding: 20px;
+    margin: 30px;
+    border-radius: 25px;
+    background-image: linear-gradient(gray,skyblue);
+}
+.headParts{
+    margin: 20px;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+}
+.main{
+    border-radius: 50px;
+    margin: 100px;
+    background-image: linear-gradient(lightgreen,lightgray);
+
+}
